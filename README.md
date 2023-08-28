@@ -8,3 +8,12 @@ total에 +=를 안쓰는 이유는 뒤에 반복문이랑 sum으로 합을 구�
 ![image](https://github.com/LeeMinGyu23/7/assets/117800561/72a8f312-830d-4f48-889b-f035ac31858d)
 
 i,j를 사용하는 이유는 ( )안에 있는걸 i.j로 바꿔서 합을 구할려고 바꿈 
+
+
+![image](https://github.com/LeeMinGyu23/7/assets/117800561/e60bba05-0aa5-4f6a-be27-c392bb070461)
+
+append를 써서 저장함
+
+
+![image](https://github.com/LeeMinGyu23/7/assets/117800561/2cd476da-a31a-4529-819a-bcfe2dec28ba)
+
