@@ -22,3 +22,6 @@ append를 써서 저장함
 ![image](https://github.com/LeeMinGyu23/7/assets/117800561/b00f849f-27fa-41a7-9214-64c9f5ec18f7)
 
 
+![image](https://github.com/LeeMinGyu23/7/assets/117800561/1fac56bf-e456-4246-9784-5f2e646a0c72)
+
+
